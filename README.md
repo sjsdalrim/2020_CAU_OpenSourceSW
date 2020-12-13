@@ -1,7 +1,6 @@
 # CAUOSS_project
 
 Chung-Ang university
-
 grade : 1    semester : 2
 
 Open Source SW and Python Programming
